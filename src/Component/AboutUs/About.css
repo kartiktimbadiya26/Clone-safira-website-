@@ -1,0 +1,156 @@
+.aboutus-page .part1 .tit {
+      font-size: 27px;
+      margin: 25px;
+}
+
+.aboutus-page .part1 p {
+      width: 82%;
+      font-size: 17px;
+      margin: 25px auto;
+}
+
+.aboutus-page .part1 .sig {
+      margin: 25px auto;
+}
+
+.aboutus-page .part2 {
+      background-image: url('./images/asset\ 21.webp');
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+      padding: 50px 0;
+}
+
+.aboutus-page .part2 .im-card {
+      padding: 0 10px;
+}
+
+.aboutus-page .part2 .im-card img {
+      transition: 0.3s;
+}
+
+.aboutus-page .part2 .im-card:hover img {
+      transform: rotateY(180deg);
+}
+
+.aboutus-page .part2 .head-ing {
+      font-size: 25px;
+      margin: 20px 0;
+}
+
+.aboutus-page .part2 p {
+      font-size: 15px;
+}
+
+.aboutus-page .part3 .cs-card-10 {
+      text-align: center;
+}
+
+.aboutus-page .part3 .cs-card-10 .hed-2 {
+      font-size: 25px;
+      margin: 15px 0;
+}
+
+.aboutus-page .part3 .cs-card-10 p {
+      font-size: 15px;
+}
+
+.aboutus-page .part4 .tit-2 {
+      font-size: 25px;
+      text-align: center;
+}
+
+.aboutus-page .part4 .accordion {
+      border-radius: 0 !important;
+      --bs-accordion-inner-border-radius: 0 !important;
+}
+
+.aboutus-page .part4 .accordion-item {
+      border: 0;
+      border-radius: 0;
+}
+
+.aboutus-page .part4 .accordion-item .accordion-header .accordion-button:not(.collapsed) {
+      background-color: transparent !important;
+      border: none !important;
+}
+
+button:focus:not(:focus-visible) {
+      border: 0 !important;
+}
+
+.slider-about {
+      overflow: hidden;
+}
+
+#slider-about .item .detail {
+      height: 300px;
+      display: flex;
+      padding: 30px 35px;
+      background-color: #F8F8F8;
+      position: relative;
+      align-items: center;
+      justify-content: space-evenly;
+      flex-direction: column;
+      text-align: center;
+      margin-top: 100px;
+}
+
+#slider-about .item .detail p {
+      font-size: 17px;
+}
+
+#slider-about .item .detail a {
+      font-size: 15px;
+      font-weight: 500 !important;
+}
+
+#slider-about .item .detail a:hover {
+      color: red !important;
+}
+
+#slider-about .item .icon img {
+      width: 27px;
+}
+
+#slider-about .item .im {
+      position: absolute;
+      top: 25%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 99;
+}
+
+#slider-about.owl-carousel .owl-stage-outer {
+      overflow: visible;
+}
+
+#slider-about .owl-dots {
+      position: absolute;
+      top: 90%;
+      left: 50%;
+      transform: translate(-50%);
+}
+
+#slider-about .owl-dots button span {
+      background-color: #e7e7e7 !important;
+}
+
+#slider-about .owl-dots button.active span {
+      background-color: red !important;
+      transition: 0.5s;
+}
+
+#slider-about .owl-dots button span:hover {
+      background-color: red !important;
+}
+
+@media only screen and (max-width: 767px) {
+      .aboutus-page .part1 .tit {
+            font-size: 16px;
+      }
+
+      .aboutus-page .part1 p {
+            font-size: 14px;
+      }
+}

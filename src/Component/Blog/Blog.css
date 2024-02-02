@@ -1,0 +1,100 @@
+.blog .detail a {
+      font-size: 17px;
+}
+
+.blog .right a {
+      font-size: 12px;
+}
+
+.blog .dat {
+      display: flex;
+      align-items: center;
+      font-size: 14px;
+}
+
+.blog .dat span {
+      position: relative;
+}
+
+.blog .dat span::after {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      right: -10%;
+      content: '';
+      height: 75%;
+      width: 1px;
+      background-color: black;
+}
+
+.blog .dat a {
+      font-size: 14px;
+      margin-left: 12px;
+}
+
+.blog .part1 .detail button {
+      border: none;
+      background-color: black;
+      color: white;
+      padding: 5px 15px;
+      font-weight: 500;
+      border-radius: 3px;
+      margin-top: 20px;
+      transition: 0.3s;
+}
+
+.blog .part1 .detail button:hover {
+      background-color: #40A944;
+}
+
+.blog .right .part2 .detail .im img {
+      border-radius: 50%;
+}
+
+.blog .colo {
+      color: #40A944 !important;
+}
+
+.blog .right .par {
+      display: flex;
+      margin: 10px 0;
+}
+
+.blog .right .par .des {
+      display: flex;
+      align-items: start;
+}
+
+.blog .right .par .des a {
+      padding: 0;
+      margin: 0px 4px;
+}
+
+.blog .right .part3 .detail .part img {
+      max-width: 100%;
+}
+
+.blog .right .part3 .detail .part {
+      display: flex;
+      margin: 10px 0;
+}
+
+.blog .right .part3 .detail .part .des {
+      margin-left: 10px;
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+}
+
+.blog .right .part3 .detail .part .des a {
+      padding: 0 !important;
+      font-weight: 500;
+}
+
+.blog .bottom-part {
+      padding: 75px 0;
+}
+
+.bord-bottom {
+      border-bottom: 1px solid #EDEDED;
+}
