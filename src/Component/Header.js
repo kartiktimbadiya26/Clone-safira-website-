@@ -122,7 +122,7 @@ export default function Header() {
               <div className="col-lg-3 d-flex align-items-center justify-content-end">
                 <img src={require('../images/asset 46.webp')} alt="" />
                 <div className="det d-flex align-items-end flex-column ms-2">
-                  <Link to="">(08) 23 456 789</Link>
+                  <Link to="">98751 03176</Link>
                   <span>Customer Support</span>
                 </div>
               </div>

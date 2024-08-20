@@ -21,17 +21,17 @@ export default function Contactus() {
                                                       <div className="line"></div>
                                                       <div className="fax">
                                                             <FaFax className='icon' />
-                                                            <span>Address : No 40 Baria Sreet 133/2 NewYork City</span>
+                                                            <span>Address : Mota varachha , surat , Gujarat , India</span>
                                                       </div>
                                                       <div className="line"></div>
                                                       <div className="call d-flex align-items-center">
                                                             <IoIosCall className='icon' />
-                                                            <Link to=''>0(1234) 567 890</Link>
+                                                            <Link to=''>98751 03176</Link>
                                                       </div>
                                                       <div className="line"></div>
                                                       <div className="mail d-flex align-items-center">
                                                             <CiMail className='icon' />
-                                                            <Link to=''>Infor@roadthemes.com</Link>
+                                                            <Link to=''>cdmikartiktimbadiya@gmail.com</Link>
                                                       </div>
                                                 </div>
                                           </div>

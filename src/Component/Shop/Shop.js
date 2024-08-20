@@ -38,7 +38,7 @@ export default function Shop() {
                     <div className="slid"></div>
                     <div className="pri">
                       <Link to='' className="">Filter</Link>
-                      $0 - $500
+                      ₹0 - ₹500
                     </div>
                   </div>
                 </div>
@@ -127,8 +127,8 @@ export default function Shop() {
                         <Link to=''>Aliquam Consequat</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$26.00</div>
-                          <div className="old">$362.00</div>
+                          <div className="new">₹26.00</div>
+                          <div className="old">₹362.00</div>
                         </div>
                       </div>
                     </div>
@@ -150,8 +150,8 @@ export default function Shop() {
                         <Link to=''>Cas Meque Metus</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$32.00</div>
-                          <div className="old">$342.00</div>
+                          <div className="new">₹32.00</div>
+                          <div className="old">₹342.00</div>
                         </div>
                       </div>
                     </div>
@@ -173,8 +173,8 @@ export default function Shop() {
                         <Link to=''>Donec Ac Tempus</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$46.00</div>
-                          <div className="old">$322.00</div>
+                          <div className="new">₹46.00</div>
+                          <div className="old">₹322.00</div>
                         </div>
                       </div>
                     </div>
@@ -196,8 +196,8 @@ export default function Shop() {
                         <Link to=''>Donec Non Est</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$28.00</div>
-                          <div className="old">$382.00</div>
+                          <div className="new">₹28.00</div>
+                          <div className="old">₹382.00</div>
                         </div>
                       </div>
                     </div>
@@ -219,8 +219,8 @@ export default function Shop() {
                         <Link to=''>Etiam Gravida</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$26.00</div>
-                          <div className="old">$362.00</div>
+                          <div className="new">₹26.00</div>
+                          <div className="old">₹362.00</div>
                         </div>
                       </div>
                     </div>
@@ -242,8 +242,8 @@ export default function Shop() {
                         <Link to=''>Fusce Aliquam</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$36.00</div>
-                          <div className="old">$322.00</div>
+                          <div className="new">₹36.00</div>
+                          <div className="old">₹322.00</div>
                         </div>
                       </div>
                     </div>
@@ -265,8 +265,8 @@ export default function Shop() {
                         <Link to=''>Letraset Sheets</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$56.00</div>
-                          <div className="old">$286.00</div>
+                          <div className="new">₹56.00</div>
+                          <div className="old">₹286.00</div>
                         </div>
                       </div>
                     </div>
@@ -288,8 +288,8 @@ export default function Shop() {
                         <Link to=''>Lorem Ipsum Lec</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$26.00</div>
-                          <div className="old">$362.00</div>
+                          <div className="new">₹26.00</div>
+                          <div className="old">₹362.00</div>
                         </div>
                       </div>
                     </div>
@@ -311,8 +311,8 @@ export default function Shop() {
                         <Link to=''>Mauris Vel Tellus</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$65.00</div>
-                          <div className="old">$292.00</div>
+                          <div className="new">₹65.00</div>
+                          <div className="old">₹292.00</div>
                         </div>
                       </div>
                     </div>
@@ -334,8 +334,8 @@ export default function Shop() {
                         <Link to=''>Nunc Neque Eros</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$26.00</div>
-                          <div className="old">$362.00</div>
+                          <div className="new">₹26.00</div>
+                          <div className="old">₹362.00</div>
                         </div>
                       </div>
                     </div>
@@ -357,8 +357,8 @@ export default function Shop() {
                         <Link to=''>Proin Lectus Ipsum</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$44.00</div>
-                          <div className="old">$332.00</div>
+                          <div className="new">₹44.00</div>
+                          <div className="old">₹332.00</div>
                         </div>
                       </div>
                     </div>
@@ -380,8 +380,8 @@ export default function Shop() {
                         <Link to=''>Quisque In Arcu</Link>
                         <Link to=''>Fruits</Link>
                         <div className="prise">
-                          <div className="new">$26.00</div>
-                          <div className="old">$362.00</div>
+                          <div className="new">₹26.00</div>
+                          <div className="old">₹362.00</div>
                         </div>
                       </div>
                     </div>

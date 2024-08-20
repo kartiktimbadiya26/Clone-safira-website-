@@ -170,7 +170,7 @@ export default function Home() {
               </div>
               <div className="detail">
                 <p className='he'>FREE SHIPPING</p>
-                <p className='de'>Free shipping on all US order or order above $200</p>
+                <p className='de'>Free shipping on all US order or order above ₹200</p>
               </div>
             </div>
             <div className="col-lg-3 col-sm-6 col-12 d-flex py-3 px-2">
@@ -235,8 +235,8 @@ export default function Home() {
                     <Link to="" className='na'>Aliquam Consequat</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$26.00</span>
-                      <span className="old">$362.00</span>
+                      <span className="new">₹26.00</span>
+                      <span className="old">₹362.00</span>
                     </div>
                   </div>
                 </div>
@@ -257,8 +257,8 @@ export default function Home() {
                     <Link to="" className='na'>Donec Non Est</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$46.00</span>
-                      <span className="old">$382.00</span>
+                      <span className="new">₹46.00</span>
+                      <span className="old">₹382.00</span>
                     </div>
                   </div>
                 </div>
@@ -281,8 +281,8 @@ export default function Home() {
                     <Link to="" className='na'>Etiam Gravida</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$56.00</span>
-                      <span className="old">$322.00</span>
+                      <span className="new">₹56.00</span>
+                      <span className="old">₹322.00</span>
                     </div>
                   </div>
                 </div>
@@ -304,8 +304,8 @@ export default function Home() {
                     <Link to="" className='na'>Fusce Aliquam</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$66.00</span>
-                      <span className="old">$312.00</span>
+                      <span className="new">₹66.00</span>
+                      <span className="old">₹312.00</span>
                     </div>
                   </div>
                 </div>
@@ -328,8 +328,8 @@ export default function Home() {
                     <Link to="" className='na'>Letraset Sheets</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$36.00</span>
-                      <span className="old">$262.00</span>
+                      <span className="new">₹36.00</span>
+                      <span className="old">₹262.00</span>
                     </div>
                   </div>
                 </div>
@@ -351,8 +351,8 @@ export default function Home() {
                     <Link to="" className='na'>Lorem Ipsum Lec</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$36.00</span>
-                      <span className="old">$145.00</span>
+                      <span className="new">₹36.00</span>
+                      <span className="old">₹145.00</span>
                     </div>
                   </div>
                 </div>
@@ -376,8 +376,8 @@ export default function Home() {
                     <Link to="" className='na'>Mauris Vel Tellus</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$48.00</span>
-                      <span className="old">$257.00</span>
+                      <span className="new">₹48.00</span>
+                      <span className="old">₹257.00</span>
                     </div>
                   </div>
                 </div>
@@ -398,8 +398,8 @@ export default function Home() {
                     <Link to="" className='na'>Nunc Neque Eros</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$35.00</span>
-                      <span className="old">$245.00</span>
+                      <span className="new">₹35.00</span>
+                      <span className="old">₹245.00</span>
                     </div>
                   </div>
                 </div>
@@ -422,8 +422,8 @@ export default function Home() {
                     <Link to="" className='na'>Proin Lectus Ipsum</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$26.00</span>
-                      <span className="old">$362.00</span>
+                      <span className="new">₹26.00</span>
+                      <span className="old">₹362.00</span>
                     </div>
                   </div>
                 </div>
@@ -445,8 +445,8 @@ export default function Home() {
                     <Link to="" className='na'>Quisque In Arcu</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$55.00</span>
-                      <span className="old">$235.00</span>
+                      <span className="new">₹55.00</span>
+                      <span className="old">₹235.00</span>
                     </div>
                   </div>
                 </div>
@@ -470,8 +470,8 @@ export default function Home() {
                     <Link to="" className='na'>Cas Meque Metus</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$26.00</span>
-                      <span className="old">$362.00</span>
+                      <span className="new">₹26.00</span>
+                      <span className="old">₹362.00</span>
                     </div>
                   </div>
                 </div>
@@ -493,8 +493,8 @@ export default function Home() {
                     <Link to="" className='na'>Aliquam Consequat</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$46.00</span>
-                      <span className="old">$382.00</span>
+                      <span className="new">₹46.00</span>
+                      <span className="old">₹382.00</span>
                     </div>
                   </div>
                 </div>
@@ -545,8 +545,8 @@ export default function Home() {
                   <Link to="" className='na'>Mauris Vel Tellus</Link>
                   <Link to="" className='ty'>Fruits</Link>
                   <div className="prise d-flex justify-content-evenly">
-                    <span className="new">$48.00</span>
-                    <span className="old">$257.00</span>
+                    <span className="new">₹48.00</span>
+                    <span className="old">₹257.00</span>
                   </div>
                 </div>
               </div>
@@ -570,8 +570,8 @@ export default function Home() {
                   <Link to="" className='na'>Nunc Neque Eros</Link>
                   <Link to="" className='ty'>Fruits</Link>
                   <div className="prise d-flex justify-content-evenly">
-                    <span className="new">$35.00</span>
-                    <span className="old">$245.00</span>
+                    <span className="new">₹35.00</span>
+                    <span className="old">₹245.00</span>
                   </div>
                 </div>
               </div>
@@ -595,8 +595,8 @@ export default function Home() {
                   <Link to="" className='na'>Proin Lectus Ipsum</Link>
                   <Link to="" className='ty'>Fruits</Link>
                   <div className="prise d-flex justify-content-evenly">
-                    <span className="new">$26.00</span>
-                    <span className="old">$362.00</span>
+                    <span className="new">₹26.00</span>
+                    <span className="old">₹362.00</span>
                   </div>
                 </div>
               </div>
@@ -620,8 +620,8 @@ export default function Home() {
                   <Link to="" className='na'>Quisque In Arcu</Link>
                   <Link to="" className='ty'>Fruits</Link>
                   <div className="prise d-flex justify-content-evenly">
-                    <span className="new">$55.00</span>
-                    <span className="old">$235.00</span>
+                    <span className="new">₹55.00</span>
+                    <span className="old">₹235.00</span>
                   </div>
                 </div>
               </div>
@@ -645,8 +645,8 @@ export default function Home() {
                   <Link to="" className='na'>Cas Meque Metus</Link>
                   <Link to="" className='ty'>Fruits</Link>
                   <div className="prise d-flex justify-content-evenly">
-                    <span className="new">$26.00</span>
-                    <span className="old">$362.00</span>
+                    <span className="new">₹26.00</span>
+                    <span className="old">₹362.00</span>
                   </div>
                 </div>
               </div>
@@ -670,8 +670,8 @@ export default function Home() {
                   <Link to="" className='na'>Aliquam Consequat</Link>
                   <Link to="" className='ty'>Fruits</Link>
                   <div className="prise d-flex justify-content-evenly">
-                    <span className="new">$26.00</span>
-                    <span className="old">$362.00</span>
+                    <span className="new">₹26.00</span>
+                    <span className="old">₹362.00</span>
                   </div>
                 </div>
               </div>
@@ -713,8 +713,8 @@ export default function Home() {
                         <Link to="" className='na'>Mauris Vel Tellus</Link>
                         <Link to="" className='ty'>Fruits</Link>
                         <div className="prise d-flex justify-content-between">
-                          <span className="new">$48.00</span>
-                          <span className="old">$257.00</span>
+                          <span className="new">₹48.00</span>
+                          <span className="old">₹257.00</span>
                         </div>
                       </div>
                       <div className="ho-box2">
@@ -734,8 +734,8 @@ export default function Home() {
                         <Link to="" className='na'>Donec Non Est</Link>
                         <Link to="" className='ty'>Fruits</Link>
                         <div className="prise d-flex justify-content-between">
-                          <span className="new">$46.00</span>
-                          <span className="old">$382.00</span>
+                          <span className="new">₹46.00</span>
+                          <span className="old">₹382.00</span>
                         </div>
                       </div>
                       <div className="ho-box2">
@@ -755,8 +755,8 @@ export default function Home() {
                         <Link to="" className='na'>Donec Non Est</Link>
                         <Link to="" className='ty'>Fruits</Link>
                         <div className="prise d-flex justify-content-between">
-                          <span className="new">$46.00</span>
-                          <span className="old">$382.00</span>
+                          <span className="new">₹46.00</span>
+                          <span className="old">₹382.00</span>
                         </div>
                       </div>
                       <div className="ho-box2">
@@ -778,8 +778,8 @@ export default function Home() {
                         <Link to="" className='na'>Aliquam Consequat</Link>
                         <Link to="" className='ty'>Fruits</Link>
                         <div className="prise d-flex justify-content-between">
-                          <span className="new">$26.00</span>
-                          <span className="old">$362.00</span>
+                          <span className="new">₹26.00</span>
+                          <span className="old">₹362.00</span>
                         </div>
                       </div>
                       <div className="ho-box2">
@@ -799,8 +799,8 @@ export default function Home() {
                         <Link to="" className='na'>Donec Non Est</Link>
                         <Link to="" className='ty'>Fruits</Link>
                         <div className="prise d-flex justify-content-between">
-                          <span className="new">$46.00</span>
-                          <span className="old">$382.00</span>
+                          <span className="new">₹46.00</span>
+                          <span className="old">₹382.00</span>
                         </div>
                       </div>
                       <div className="ho-box2">
@@ -820,8 +820,8 @@ export default function Home() {
                         <Link to="" className='na'>Mauris Vel Tellus</Link>
                         <Link to="" className='ty'>Fruits</Link>
                         <div className="prise d-flex justify-content-between">
-                          <span className="new">$56.00</span>
-                          <span className="old">$362.00</span>
+                          <span className="new">₹56.00</span>
+                          <span className="old">₹362.00</span>
                         </div>
                       </div>
                       <div className="ho-box2">
@@ -843,8 +843,8 @@ export default function Home() {
                         <Link to="" className='na'>Quisque In Arcu</Link>
                         <Link to="" className='ty'>Fruits</Link>
                         <div className="prise d-flex justify-content-between">
-                          <span className="new">$20.00</span>
-                          <span className="old">$352.00</span>
+                          <span className="new">₹20.00</span>
+                          <span className="old">₹352.00</span>
                         </div>
                       </div>
                       <div className="ho-box2">
@@ -864,8 +864,8 @@ export default function Home() {
                         <Link to="" className='na'>Cas Meque Metus</Link>
                         <Link to="" className='ty'>Fruits</Link>
                         <div className="prise d-flex justify-content-between">
-                          <span className="new">$72.00</span>
-                          <span className="old">$352.00</span>
+                          <span className="new">₹72.00</span>
+                          <span className="old">₹352.00</span>
                         </div>
                       </div>
                       <div className="ho-box2">
@@ -885,8 +885,8 @@ export default function Home() {
                         <Link to="" className='na'>Proin Lectus Ipsum</Link>
                         <Link to="" className='ty'>Fruits</Link>
                         <div className="prise d-flex justify-content-between">
-                          <span className="new">$36.00</span>
-                          <span className="old">$282.00</span>
+                          <span className="new">₹36.00</span>
+                          <span className="old">₹282.00</span>
                         </div>
                       </div>
                       <div className="ho-box2">
@@ -932,8 +932,8 @@ export default function Home() {
                     <Link to="" className='na'>Quisque In Arcu</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$55.00</span>
-                      <span className="old">$235.00</span>
+                      <span className="new">₹55.00</span>
+                      <span className="old">₹235.00</span>
                     </div>
                   </div>
                 </div>
@@ -957,8 +957,8 @@ export default function Home() {
                     <Link to="" className='na'>Cas Meque Metus</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$26.00</span>
-                      <span className="old">$362.00</span>
+                      <span className="new">₹26.00</span>
+                      <span className="old">₹362.00</span>
                     </div>
                   </div>
                 </div>
@@ -982,8 +982,8 @@ export default function Home() {
                     <Link to="" className='na'>Aliquam Consequat</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$26.00</span>
-                      <span className="old">$362.00</span>
+                      <span className="new">₹26.00</span>
+                      <span className="old">₹362.00</span>
                     </div>
                   </div>
                 </div>
@@ -1007,8 +1007,8 @@ export default function Home() {
                     <Link to="" className='na'>Mauris Vel Tellus</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$48.00</span>
-                      <span className="old">$257.00</span>
+                      <span className="new">₹48.00</span>
+                      <span className="old">₹257.00</span>
                     </div>
                   </div>
                 </div>
@@ -1032,8 +1032,8 @@ export default function Home() {
                     <Link to="" className='na'>Nunc Neque Eros</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$35.00</span>
-                      <span className="old">$245.00</span>
+                      <span className="new">₹35.00</span>
+                      <span className="old">₹245.00</span>
                     </div>
                   </div>
                 </div>
@@ -1057,8 +1057,8 @@ export default function Home() {
                     <Link to="" className='na'>Proin Lectus Ipsum</Link>
                     <Link to="" className='ty'>Fruits</Link>
                     <div className="prise d-flex justify-content-evenly">
-                      <span className="new">$26.00</span>
-                      <span className="old">$362.00</span>
+                      <span className="new">₹26.00</span>
+                      <span className="old">₹362.00</span>
                     </div>
                   </div>
                 </div>
@@ -1154,8 +1154,8 @@ export default function Home() {
                     <Link to="" style={{ fontSize: '18px' }} className='mb-2'>Quisque In Arcu</Link>
                     <Link to="" style={{ fontSize: '15px' }} className='mb-2'>Fruits</Link>
                     <div className="prise" style={{ fontSize: '15px' }}>
-                      <span className="old me-5" style={{ color: '#40A944' }}>$20.00</span>
-                      <span className="new">$352.00</span>
+                      <span className="old me-5" style={{ color: '#40A944' }}>₹20.00</span>
+                      <span className="new">₹352.00</span>
                     </div>
                   </div>
                   <div className="ho-box2">
@@ -1173,8 +1173,8 @@ export default function Home() {
                     <Link to="" style={{ fontSize: '18px' }} className='mb-2'>Cas Meque Metus</Link>
                     <Link to="" style={{ fontSize: '15px' }} className='mb-2'>Fruits</Link>
                     <div className="prise" style={{ fontSize: '15px' }}>
-                      <span className="old me-5" style={{ color: '#40A944' }}>$72.00</span>
-                      <span className="new">$352.00</span>
+                      <span className="old me-5" style={{ color: '#40A944' }}>₹72.00</span>
+                      <span className="new">₹352.00</span>
                     </div>
                   </div>
                   <div className="ho-box2">
@@ -1192,8 +1192,8 @@ export default function Home() {
                     <Link to="" style={{ fontSize: '18px' }} className='mb-2'>Proin Lectus Ipsum</Link>
                     <Link to="" style={{ fontSize: '15px' }} className='mb-2'>Fruits</Link>
                     <div className="prise" style={{ fontSize: '15px' }}>
-                      <span className="old me-5" style={{ color: '#40A944' }}>$36.00</span>
-                      <span className="new">$282.00</span>
+                      <span className="old me-5" style={{ color: '#40A944' }}>₹36.00</span>
+                      <span className="new">₹282.00</span>
                     </div>
                   </div>
                   <div className="ho-box2">
@@ -1213,8 +1213,8 @@ export default function Home() {
                     <Link to="" style={{ fontSize: '18px' }} className='mb-2'>Mauris Vel Tellus</Link>
                     <Link to="" style={{ fontSize: '15px' }} className='mb-2'>Fruits</Link>
                     <div className="prise" style={{ fontSize: '15px' }}>
-                      <span className="old me-5" style={{ color: '#40A944' }}>$45.00</span>
-                      <span className="new">$162.00</span>
+                      <span className="old me-5" style={{ color: '#40A944' }}>₹45.00</span>
+                      <span className="new">₹162.00</span>
                     </div>
                   </div>
                   <div className="ho-box2">
@@ -1232,8 +1232,8 @@ export default function Home() {
                     <Link to="" style={{ fontSize: '18px' }} className='mb-2'>Donec Non Est</Link>
                     <Link to="" style={{ fontSize: '15px' }} className='mb-2'>Fruits</Link>
                     <div className="prise" style={{ fontSize: '15px' }}>
-                      <span className="old me-5" style={{ color: '#40A944' }}>$46.00</span>
-                      <span className="new">$382.00</span>
+                      <span className="old me-5" style={{ color: '#40A944' }}>₹46.00</span>
+                      <span className="new">₹382.00</span>
                     </div>
                   </div>
                   <div className="ho-box2">
@@ -1251,8 +1251,8 @@ export default function Home() {
                     <Link to="" style={{ fontSize: '18px' }} className='mb-2'>Donec Non Est</Link>
                     <Link to="" style={{ fontSize: '15px' }} className='mb-2'>Fruits</Link>
                     <div className="prise" style={{ fontSize: '15px' }}>
-                      <span className="old me-5" style={{ color: '#40A944' }}>$46.00</span>
-                      <span className="new">$382.00</span>
+                      <span className="old me-5" style={{ color: '#40A944' }}>₹46.00</span>
+                      <span className="new">₹382.00</span>
                     </div>
                   </div>
                   <div className="ho-box2">
@@ -1272,8 +1272,8 @@ export default function Home() {
                     <Link to="" style={{ fontSize: '18px' }} className='mb-2'>Aliquam Consequat</Link>
                     <Link to="" style={{ fontSize: '15px' }} className='mb-2'>Fruits</Link>
                     <div className="prise" style={{ fontSize: '15px' }}>
-                      <span className="old me-5" style={{ color: '#40A944' }}>$26.00</span>
-                      <span className="new">$362.00</span>
+                      <span className="old me-5" style={{ color: '#40A944' }}>₹26.00</span>
+                      <span className="new">₹362.00</span>
                     </div>
                   </div>
                   <div className="ho-box2">
@@ -1291,8 +1291,8 @@ export default function Home() {
                     <Link to="" style={{ fontSize: '18px' }} className='mb-2'>Donec Non Est</Link>
                     <Link to="" style={{ fontSize: '15px' }} className='mb-2'>Fruits</Link>
                     <div className="prise" style={{ fontSize: '15px' }}>
-                      <span className="old me-5" style={{ color: '#40A944' }}>$46.00</span>
-                      <span className="new">$382.00</span>
+                      <span className="old me-5" style={{ color: '#40A944' }}>₹46.00</span>
+                      <span className="new">₹382.00</span>
                     </div>
                   </div>
                   <div className="ho-box2">
@@ -1310,8 +1310,8 @@ export default function Home() {
                     <Link to="" style={{ fontSize: '18px' }} className='mb-2'>Mauris Vel Tellus</Link>
                     <Link to="" style={{ fontSize: '15px' }} className='mb-2'>Fruits</Link>
                     <div className="prise" style={{ fontSize: '15px' }}>
-                      <span className="old me-5" style={{ color: '#40A944' }}>$56.00</span>
-                      <span className="new">$362.00</span>
+                      <span className="old me-5" style={{ color: '#40A944' }}>₹56.00</span>
+                      <span className="new">₹362.00</span>
                     </div>
                   </div>
                   <div className="ho-box2">
