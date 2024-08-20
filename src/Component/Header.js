@@ -112,10 +112,11 @@ export default function Header() {
                           </ul></li>
                       </ul>
                     </li>
-                    <li><Link className='si' to="/shop">Shop<FaAngleDown /></Link></li>
-                    <li><Link className='si' to="/blog">Blog<FaAngleDown /></Link></li>
-                    <li><Link className='si' to="/about">About Us<FaAngleDown /></Link></li>
-                    <li><Link className='si' to="/contact">Contact Us<FaAngleDown /></Link></li>
+                    <li><Link className='si' to="/shop">Shop</Link></li>
+                    <li><Link className='si' to="/blog">Blog</Link></li>
+                    <li><Link className='si' to="/about">About Us</Link></li>
+                    <li><Link className='si' to="/contact">Contact Us</Link></li>
+                    <li><Link className='si' to="/privacy">Privacy Policy</Link></li>
                   </ul>
                 </nav>
               </div>

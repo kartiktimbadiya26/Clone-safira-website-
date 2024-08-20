@@ -13,6 +13,7 @@ import Shop from './Component/Shop/Shop';
 import Blog from './Component/Blog/Blog';
 import Contactus from './Component/Contactus/Contactus';
 import About from './Component/AboutUs/About';
+import Privacy from './Component/Policy/Privacy';
 // https://htmldemo.net/safira/safira/index.html
 function App() {
   const [show, setShow] = useState(false);
@@ -27,6 +28,7 @@ function App() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contactus />} />
+        <Route path="/privacy" element={<Privacy />} />
       </Routes>
       <Footer />
     </>
